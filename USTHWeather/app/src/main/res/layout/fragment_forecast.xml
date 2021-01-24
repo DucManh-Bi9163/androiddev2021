@@ -20,7 +20,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="Mon"
+            android:text="@string/Mon"
 
             />
 
@@ -53,6 +53,7 @@
             android:gravity="center"
             android:layout_weight="1"
             android:text="Tue"
+
 
             />
 

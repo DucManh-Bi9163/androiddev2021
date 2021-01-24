@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Mon">Thu hai</string>
+
+    <string name="Tue">Thu ba</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Wed">Thu tu</string>
+    <string name="Thurs">Thu nam</string>
+    <string name="Fri">Thu sau</string>
+    <string name="Sat">Thu bay</string>
+    <string name="Sun">Chu nhat</string>
+
+</resources>
