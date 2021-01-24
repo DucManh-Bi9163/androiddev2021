@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">USTH Weather</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="Mon">Mon</string>
 
     <string name="Tue">Tue</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="Wed">Wed</string>
 
     <string name="Thurs">Thurs</string>

@@ -5,16 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="8dp"
-    android:background="@color/teal_200"
-
+    android:background="@drawable/frame"
     >
 
     <!-- TODO: Update blank fragment layout -->
+
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="12C\nStorming"
-        />
+        android:layout_width="377dp"
+        android:layout_height="464dp"
+        android:text="12C\nStorming" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -26,8 +26,8 @@
         android:layout_height="wrap_content"
         android:src="@drawable/clound"
         android:layout_gravity="center"
-
-
         />
+
+
 
 </FrameLayout>
